@@ -10,7 +10,9 @@
 ## Описание
 Это мини-проект, созданный для экспериментов с базовыми возможностями CSS.
 На странице отображаются несколько карточек, каждая из которых содержит текст и кнопку. При наведении мыши карточки плавно увеличиваются, меняют цвет и получают тень.
-![css](https://github.com/DmitryLkT/css_simple_project/tree/main/resources/static/images/css.jpg)
+
+
+![css](https://github.com/DmitryLkT/css_simple_project/blob/main/resources/static/images/css.jpg)
 
 ## Технологии
 | Технология | Назначение |
